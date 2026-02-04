@@ -1,4 +1,5 @@
-📊 Employee Attrition Analysis Dashboard (Excel Project)
+📊** Employee Attrition Analysis Dashboard (Excel Project)**
+
 📌 Project Overview
 
 This project analyzes employee attrition data to identify key factors influencing employee turnover. Using Microsoft Excel, the project focuses on data cleaning, transformation, analysis, and visualization to support HR and management decision-making.
